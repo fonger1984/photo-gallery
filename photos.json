@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "name": "大墨",
+    "bio": "📷 生活记录",
+    "avatar": "photo/thumb/IMG_4729.jpg",
+    "link": "",
+    "followers": 0
+  },
+  "tags": ["people", "nature", "travel", "art"],
+  "tagLabels": {
+    "people": "人物",
+    "nature": "自然",
+    "travel": "旅行",
+    "art": "艺术"
+  },
+  "photos": [
+    { "title": "人潮", "image": "photo/thumb/IMG_2971.jpg", "link": "", "likes": 0, "tags": ["people"] },
+    { "title": "田园", "image": "photo/thumb/IMG_3001.jpg", "link": "", "likes": 0, "tags": ["nature"] },
+    { "title": "蓝天", "image": "photo/thumb/IMG_3019.jpg", "link": "", "likes": 0, "tags": ["nature"] },
+    { "title": "悬崖", "image": "photo/thumb/IMG_3217.jpg", "link": "", "likes": 0, "tags": ["travel", "nature"] },
+    { "title": "人群", "image": "photo/thumb/IMG_4409.jpg", "link": "", "likes": 0, "tags": ["people"] },
+    { "title": "游乐园", "image": "photo/thumb/IMG_4503.jpg", "link": "", "likes": 0, "tags": ["travel"] },
+    { "title": "骆驼", "image": "photo/thumb/IMG_4529.jpg", "link": "", "likes": 0, "tags": ["travel", "nature"] },
+    { "title": "天空", "image": "photo/thumb/IMG_4675.jpg", "link": "", "likes": 0, "tags": ["nature"] },
+    { "title": "红砖墙", "image": "photo/thumb/IMG_4709.jpg", "link": "", "likes": 0, "tags": ["art"] },
+    { "title": "雕塑", "image": "photo/thumb/IMG_4729.jpg", "link": "", "likes": 0, "tags": ["art"] },
+    { "title": "装饰", "image": "photo/thumb/IMG_4737.jpg", "link": "", "likes": 0, "tags": ["art"] },
+    { "title": "云", "image": "photo/thumb/classicu 2026-01-31 16423525840515954B.jpg", "link": "", "likes": 0, "tags": ["nature"] },
+    { "title": "云", "image": "photo/thumb/classicu 2026-01-31 1642519BC362FDCFBC.jpg", "link": "", "likes": 0, "tags": ["nature"] }
+  ]
+}
